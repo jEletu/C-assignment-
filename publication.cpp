@@ -1,4 +1,4 @@
-#include "Publication.h"
+#include "publication.h"
 #include <iostream>
 
 Publication::Publication() : id(""), title(""), author(""), genre(""), pageCount(0), isAvailable(true) {}
@@ -42,3 +42,4 @@ std::string Publication::toFileString() const {
     return id + " \"" + title + "\" \"" + author + "\" \"" + genre + "\" " +
            std::to_string(pageCount) + " " + (isAvailable ? "1" : "0");
 }
+
