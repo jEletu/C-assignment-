@@ -1,0 +1,7 @@
+B101 "The Power of Positive Thinking" "Norman Vincent Peale" "Motivational, Spirituality" 240 1
+B102 "The 7 Habits of Highly Effective People" "Stephen R. Covey" "Leadership" 381 0
+B103 "Awaken the Giant Within" "Tony Robbins" "Personal development, Psychology" 538 1
+B104 "Think and Grow Rich" "Napoleon Hill" "Motivational, Finance" 238
+B105 "The Origin of Species" "Charles Darwin" "Biology" 502
+B106 "Think and Grow Rich" "Napoleon Hill" "Motivational, Finance" 238
+B107 "The Art of Computer Programming" "Donald E. Knuth" "Algorithms, programming" 672
